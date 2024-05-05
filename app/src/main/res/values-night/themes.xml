@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Ap2ex3" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/my_dark_primary</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:windowBackground">@drawable/tile_background_dark</item>
+    </style>
+    <style name="ChatListBackground">
+        <item name="android:background">#AC5AA7</item>
+    </style>
+    <style name="OutGoingBackground">
+        <item name="android:background">#686868</item>
+    </style>
+    <style name="IncomingBackground">
+        <item name="android:background">#007065</item>
+    </style>
+
+
+
+</resources>
